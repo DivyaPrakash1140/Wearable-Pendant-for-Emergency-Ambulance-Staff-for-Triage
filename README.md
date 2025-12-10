@@ -24,6 +24,9 @@ All confirmed triage data is transmitted in real-time to a centralized **Blynk I
 * **Cloud:** Blynk IoT Platform.
 * **AI Model:** OpenAI Whisper (Local Base Model).
 
+# Project Demonstration Video
+* **https://drive.google.com/file/d/1rDv2vFWevz3JLzruvXmByA92DMwJiq2h/view?usp=sharing**
+
 ## 📂 Project File Structure
 ```text
 ├── producer.py         # Records audio, transcribes with Whisper, sends to RabbitMQ
